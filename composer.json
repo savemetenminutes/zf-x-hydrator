@@ -1,0 +1,22 @@
+{
+  "name": "savemetenminutes/zf-x-hydrator",
+  "description": "extended classes for zend framework (zend-hydrator)",
+  "license": "BSD 3-Clause License",
+  "type": "library",
+  "homepage": "https://github.com/savemetenminutes/zf-x-hydrator",
+  "authors": [
+    {
+      "name": "M. Kirilov",
+      "email": "savemetenminutes@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7",
+    "zendframework/zend-hydrator": "^2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Smtm\\Zfx\\Hydrator\\": "src/"
+    }
+  }
+}
