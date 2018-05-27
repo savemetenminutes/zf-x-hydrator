@@ -1,6 +1,6 @@
 {
   "name": "savemetenminutes/zf-x-hydrator",
-  "description": "extended classes for zend framework (zend-hydrator)",
+  "description": "save me ten minutes - zend framework extended classes (zend-hydrator)",
   "license": "BSD 3-Clause License",
   "type": "library",
   "homepage": "https://github.com/savemetenminutes/zf-x-hydrator",
